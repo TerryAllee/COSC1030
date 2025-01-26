@@ -15,7 +15,7 @@ int main()
 	int number;
 	float total;
 
-	cout << "Today is a great day for Lab"
+	cout << "Today is a great day for Lab";
 	cout << endl << "Let's start off by typing a number of your choice" << endl;
 	cin >> number;
 
