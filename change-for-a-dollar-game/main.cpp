@@ -37,7 +37,6 @@ int main() {
     int totalCents = (pennies * PENNY_VALUE) +
                      (nickels * NICKEL_VALUE) +
                      (dimes * DIME_VALUE) +
-                     (pennies * PENNY_VALUE) +
                      (quarters * QUARTER_VALUE);
 
     // Check the result
